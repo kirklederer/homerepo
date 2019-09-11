@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Now adding content
-adding line 2
-=======
->>>>>>> parent of b203ebd... 3.txt content added
